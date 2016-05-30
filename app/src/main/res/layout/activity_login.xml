@@ -69,5 +69,6 @@
         android:backgroundTint="#09C655"
         android:textSize="25dp"
         android:height="50dp"
-        android:background="#09C655" />
+        android:background="#09C655"
+        android:onClick="loGin"/>
 </RelativeLayout>
